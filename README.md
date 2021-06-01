@@ -4,6 +4,6 @@ API for React Weather APP
 
 ## Start
 
-### `Fork/Pull`
+### `Fork/Clone`
 
 ### `npm install`
